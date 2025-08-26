@@ -1,0 +1,23 @@
+/* id */
+
+header > p {
+  color: blueviolet;
+}
+
+#helloId {
+  font-size: 50px;
+  color: green;
+}
+
+.text {
+  font-size: 30px;
+  color: white;
+}
+
+.title {
+  font-style: italic;
+}
+
+ol {
+  background-color: blue;
+}
